@@ -1,8 +1,12 @@
 # Banking_Data_analysis _South_Africa
 
 In this project I will be conducting an analysis on South African banking data using python. 
+The purpose of this project is to gain an indepth understanding of the South African banking sector. This includes understanding of Basel ll and Basel lll. 
 
-- The purpose of this project is to gain an indepth understanding of functional aspects related to neoflex business line. This includes understanding of Basel ll and Basel lll. 
+
+# Procedure
+
+I start by writing a script used to merge and transfrom the data from the different files. I then proceed to a simple analysis using data visualizations. 
 - To use python to import and transform data.
 - To use python as a data analysis tool  
 - Data was collected from the South African Reserve bank data. 
@@ -12,3 +16,8 @@ In this project I will be conducting an analysis on South African banking data u
 - Given similar data this analysis can always be repeated for any central bank
 
 NOTE: If you use this notebook locally, remember to set your own paths to files in the notebook
+
+# Modules 
+- Pandas 
+- Plotly 
+- Matplotlib 
