@@ -1,7 +1,7 @@
 
 '''
 In this file we will be doing the data wrangling for the SARB data set.
-We then use data wrangling methods not included in this section to get the data into the format we now have. 
+We then use data wrangling methods included in this section to get the data into the format we now have. 
 BA700 cvs's which are csv files containing Capital adquecy and leverage data. BA120 csv's which are csv files containing Income statment data.
 Data Source: https://www.resbank.co.za/en/home/what-we-do/Prudentialregulation/Sector_data/banking-sector-data/BA-returns-of-total-banks-data\
 '''
