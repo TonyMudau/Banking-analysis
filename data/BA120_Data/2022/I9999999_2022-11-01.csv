@@ -1,0 +1,102 @@
+Date,November 2022
+Institution,TOTAL BANKS
+Form Type,BA120-BA120 Forms
+Values are in R'000 (thousands)
+
+Table 1
+"Description of item",,-
+"Interest and similar income (total of items 2, 3 and 14, less item 15)",001,41386710
+"Shortterm negotiable securities",002,2380839
+"Loans and advances to customers (total of items 4 to 13)",003,36552400
+"Homeloans",004,9363174
+"Commercial mortgages",005,2842174
+"Credit cards",006,1833320
+"Lease and instalment debtors",007,4403618
+"Overdrafts",008,2179635
+"Redeemable preference shares and other equivalent instruments issued to provide credit",009,523442
+"Trade, other bills and bankers' acceptances",010,99982
+"Term loans",011,8548693
+"Factoring accounts",012,206612
+"Other",013,6551753
+"Government and other dated securities",014,3167558
+"Less: interest income on trading assets allocated to trading revenue",015,714089
+"Interest expense and similar charges (total of items 17, 25 and 26, less item 27)",016,23702678
+"Deposits, current accounts and other (total of items 18 to 20, 23 and 24)",017,23878431
+"Current accounts",018,2624452
+"Savings deposits",019,1757396
+"Term and other deposits (total of items 21 and 22)",020,15568361
+"Fixed and notice deposits",021,9610113
+"Other",022,5958249
+"Negotiable certificates of deposit",023,3226624
+"Other deposits and loans",024,701597
+"Other liabilities",025,345640
+"Term debt instruments",026,1294226
+"Less: interest expense on trading liabilities allocated to trading revenue",027,1815618
+"Net Interest Income (item 1 less item 16)",028,17684032
+Table 2
+"Description of item",,-
+"Fee and commission income (total of items 30 to 35)",029,11287966
+"Service charges",030,8879774
+"Insurance commission",031,-128962
+"Exchange commission",032,483033
+"Guarantees",033,115578
+"Knowledge based fees",034,426666
+"Other",035,1511877
+"Fee and commission expense (total of items 37 and 38)",036,2115647
+"Brokerage fees paid",037,34447
+"Other fees paid",038,2081200
+"Net fee and commission income (item 29 less item 36)",039,9172319
+"Net insurance premium revenue (total of items 41 and 42)",040,0
+"Insurance premium revenue",041,-
+"Insurance premium ceded to reinsurers",042,-
+"Net reinsurance income (total of items 44 and 45)",043,0
+"Gross claims and benefits paid on insurance",044,-
+"Reinsurance recoveries",045,-
+"Dividend income (total of items 47 and 48)",046,119774
+"Subsidiary companies",047,76990
+"Other",048,42784
+"Net trading income / (loss) (total of items 50 to 55)",049,2391941
+"Foreign exchange",050,234271
+"Debt securities",051,1646861
+"Commodities",052,-229158
+"Derivative instruments",053,-1653330
+"Equities",054,1448837
+"Other",055,944461
+"Other gains less losses (total of items 57 to 60)",056,450629
+"Fair value gains and losses through profit and loss",057,450629
+"Fair value gains and losses on insurance liabilities",058,0
+"Profit/ (loss) on sale of availableforsale assets",059,0
+"Impairment of availableforsale equity securities",060,0
+"Other operating income / (loss) (total of items 62 and 63)",061,881779
+"Rental income",062,202296
+"Other",063,679483
+"Non Interest revenue (total of items 39, 40, 43, 46, 49, 56 and 61)",064,13016444
+"Gross operating income / (loss) (total of items 28 and 64)",065,30700476
+Table 3
+"Description of item",,-
+"Credit losses",066,2680879
+"Operating expenses (total of items 68 to 76)",067,17456463
+"Staff",068,9673179
+"Computer processing",069,2571344
+"Communication and travel",070,525096
+"Occupation and accommodation",071,932316
+"Marketing",072,732936
+"Fees and insurances",073,1400139
+"Office equipment and consumables",074,343769
+"Auditors remuneration",075,158447
+"Other",076,1119239
+"Indirect taxation",077,538912
+"Operating profit / (loss) before nontrading and capital items (item 65 less items 66, 67 and 77)",078,10024222
+"Nontrading and capital items (total of items 80 to 83)",079,-247007
+"Goodwill (impairment / realisation)",080,0
+"Impairment of investments",081,36848
+"Impairment of property and equipment, software and other",082,-269046
+"Other nontrading and capital items",083,-14810
+"Share of profit / (loss) of associates and joint ventures",084,15241
+"Profit / (loss) before income tax (total of items 78, 79 and 84)",085,9792456
+"Direct taxation",086,2373550
+"Profit / (loss) for the year (item 85 less 86)",087,7418905
+"Equity holders of the company",088,7315850
+"Minority interest",089,54704
+"Interest received on interest bearing loans and advances as reported in item 100 of the form BA 100",090,35746917
+"Interest paid on interest bearing deposits as reported in item 110 of the form BA 100",091,23309993
